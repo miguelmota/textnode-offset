@@ -1,0 +1,25 @@
+{
+  "name": "is-truthy",
+  "main": "is-truthy.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/is-truthy",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Get the offset of a character by wrapping it in a textNode.",
+  "keywords": [
+    "character",
+    "text",
+    "offset",
+    "position",
+    "textNode"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
