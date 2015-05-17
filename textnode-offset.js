@@ -21,11 +21,9 @@
         if (i === Number(index)) {
             var range = document.createRange();
             range.selectNodeContents(textNode);
-            var rects = range.getClientRects();
-            if (rects.length) {
-              offsetPosition.left = rects[0].left;
-              offsetPosition.top = rects[0].top;
-            }
+            var rect = range.getBoundingClientRect();
+            offsetPosition.left = rect.left;
+            offsetPosition.top = rect.top;
         }
     }
 
