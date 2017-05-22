@@ -1,6 +1,6 @@
 {
   "name": "textnode-offset",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get the offset of a character by wrapping it in a textNode.",
   "main": "textnode-offset.js",
   "directories": {

@@ -4,7 +4,7 @@ Get the offset of a character by wrapping it in a textNode.
 
 # Demo
 
-[http://lab.moogs.io/textnode-offset](http://lab.moogs.io/textnode-offset)
+[https://lab.miguelmota.com/textnode-offset](https://lab.miguelmota.com/textnode-offset)
 
 # Install
 
